@@ -1,0 +1,266 @@
+h1 {
+  background-image: linear-gradient(45deg, #f3ec78, #af4261);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+
+
+#download {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  color: #009879;
+}
+
+#about_us {
+  position: absolute;
+  top: 30px;
+  right: 16px;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  color: #009879;
+}
+
+#superbowl {
+  font-family: sans-serif;
+  font-size: 1.4em;
+  margin: auto;
+  position: absolute;
+  top: 97.5%;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  font-weight: bold;
+  color: #009879;
+}
+
+#teams {
+  position: absolute; bottom: 0; right: 1;
+  font-size: 1.4em;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #009879;
+}
+
+@font-face {
+   src: local('Ubuntu'), url(http://example.com/fonts/ubuntu.woff) format('woff');
+}
+
+#players {
+  font-family: sans-serif;
+  position: absolute;
+  bottom: 0;
+  right: 10px;
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #009879;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: center;
+  color:linear-gradient(45deg, #f3ec78, #af4261);
+  }
+
+
+#predictions {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: linear-gradient(45deg, #f3ec78, #af4261);
+}
+#introduction {
+  font-weight: bold;
+  background-image: linear-gradient(45deg, #f3ec78, #af4261);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  
+}
+
+
+
+.styled-table {
+    border-collapse: collapse;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+}
+
+#search_bar input[type=text]::placeholder {
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+ 
+}
+
+.topnav {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  overflow: hidden;
+  background-color: #e3e3e3;
+  font-family: sans-serif;
+}
+
+.topnav input[type=text] {
+  float: left;
+  padding: 6px;
+  border: none;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 18px;
+  background-color: #dddddd;
+}
+
+
+.topnav a.active {
+  background-image:linear-gradient(45deg, #f3ec78, #af4261);
+  color: white;
+  font-family: sans-serif;
+}
+
+#input-wrapper {
+  position: absolute;
+  top: 8px;
+ margin-left: auto;
+    margin-right: auto;
+  padding:13px;
+    width:300px;
+  height: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  background-image:linear-gradient(45deg, #f3ec78, #af4261);
+  color: white;
+  box-shadow: 0.25rem 0.25rem 0rem linear-gradient(45deg, #f3ec78, #af4261);
+}
+
+input {
+  margin: 0 0.5rem 0 0.5rem;
+  min-width: 250px;
+
+  border: none;
+  outline: none;
+  background-image: linear-gradient(45deg, #f3ec78, #af4261);
+  color: white;
+}
+
+::placeholder {
+  color:white;
+}
+
+select {
+  position: absolute;
+  top: 40px;
+  font-family: sans-serif;
+   background-image: linear-gradient(45deg, #f3ec78, #af4261);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  font-weight: bold;
+        appearance: none;
+        outline: 0;
+        cursor: pointer;
+        border: 4px solid #f3ec78;
+        border-radius: 10px;
+    }
+
+caption {
+  font-family: sans-serif;
+  
+  color: #009879
+}
+
+body {
+  margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-top: 15;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+  width: 100%;
+  font-family: Montserrat, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: #141414;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+p {
+  background-image: linear-gradient(45deg, #f3ec78, #af4261);
+  background-size: 100%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+}
+
+#qsLoginButton {
+  background-image : linear-gradient(45deg, #f3ec78, #af4261);
+}
+
+.alert {
+  padding: 20px;
+  background-color: #e3e62d;
+  color: white;
+  font-family:  serif;
+font-size: 17px  
+}
+ 
+
+
+.closebutton {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+cursor:pointer;
+
+}
+.closebutton:hover {
+  color: #ff000088;
+}

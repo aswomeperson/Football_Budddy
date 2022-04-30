@@ -1,2 +1,5 @@
 # Football_Budddy
-This is the code for football buddy!- Do Not Steal
+This is the code for football buddy!
+This Is THE CODE IF YOU WANT TO IMPORT CODE FROM GITHUB
+FEEL FREE TO COPY AND PASTE BUT YOU MUST INCLUDE THE README.MD AND CREDITS TO RESPECTIVE OWNERS
+THANK YOU-
